@@ -16,7 +16,7 @@ Example:
 
         where <stdin> is in the form of
 
-        <string>=<command>
+        alias <string>=<command>
 
         just like one would use alias <string>=<command>
 
